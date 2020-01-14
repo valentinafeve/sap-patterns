@@ -1,5 +1,7 @@
 # SAPatterns
 
+Implemented software architecture patterns. Real life examples.
+
 ## Creational
 
 - [ ] Abstract Factory
@@ -14,7 +16,7 @@
 - [ ] Adapter
 - [ ] Bridge
 - [ ] Composite
-- [ ] Decorator
+- [x] Decorator
 - [ ] Facade
 - [ ] Flyweight
 - [ ] Proxy
@@ -26,7 +28,7 @@
 - [ ] Iterator
 - [ ] Interpreter
 - [ ] Memento
-- [ ] Strategy
+- [x] Strategy
 - [ ] Observer
 - [ ] Visitor
 - [ ] Mediator
