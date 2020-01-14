@@ -11,6 +11,10 @@ public class Main {
 		MagicCreature serena = new Selkie("Serena", "Domino");
 		MagicCreature phylla = new Selkie("Phylla", "Earth");
 		
+		System.out.println("Starting a fight...");
+		System.out.println("Bloom: "+ bloom.tryToFight());
+		System.out.println("Icy: "+ icy.tryToFight());
+		System.out.println("Phylla: "+ phylla.tryToFight());
 	}
 
 }
