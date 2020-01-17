@@ -31,4 +31,4 @@ Implemented software architecture patterns. Real life examples.
 - [x] Strategy
 - [ ] Observer
 - [ ] Visitor
-- [ ] Mediator
+- [x] Mediator
