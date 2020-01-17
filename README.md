@@ -27,7 +27,7 @@ Implemented software architecture patterns. Real life examples.
 - [ ] Command
 - [ ] Iterator
 - [ ] Interpreter
-- [ ] Memento
+- [x] Memento
 - [x] Strategy
 - [ ] Observer
 - [ ] Visitor
